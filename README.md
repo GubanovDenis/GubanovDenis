@@ -9,4 +9,6 @@
 ![SciPy](https://img.shields.io/badge/-SciPy-black?style=for-the-badge&logo=scipy&logoColor)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&logoColor)
 
-My contacts:
+### My contacts:
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor)](mailto:gubanovdenis2501@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor)](https://t.me/gubanovdenis)
